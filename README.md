@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2>About Me</h2>
-🌱 Learning backend, frontend development</br>
+🌱 Learning BE/FE development</br>
 😄 Carpe Diem
 </br>
 </br>
