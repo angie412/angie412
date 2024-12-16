@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 <h2>History</h2>
 <ul>
   <li>Sejong University - Bachelor of Department of Electronic and Information Communication Engineering</li>
-  <li> start-up competiton (sejong.univ) 3rd prize <li>
+  <li> start-up competiton (sejong.univ) 3rd prize </li>
   <li> 42 Seoul (2022.01 ~ 2022.06)</li>
   <li> SQLD (SQL Developer, Korea Data Agency)</li>
-  <li> ADSP (Advanced Data Analytics Semi-Professional, Korea Data Agency)li>
+  <li> ADSP (Advanced Data Analytics Semi-Professional, Korea Data Agency)</li>
 </ul>
 </br>
 
